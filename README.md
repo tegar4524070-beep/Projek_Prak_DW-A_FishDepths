@@ -5,7 +5,7 @@
     1. Kholil Irsyad Marwan - 4524210110
     2. Muhammad Tegar Arianto - 4524210070
     3. Reevan Azepha Islamy Iskandar - 4524210083
-    Ridwan Odi Nugroho - 4524210089
+    4. Ridwan Odi Nugroho - 4524210089
     Rizwan Fauziani Ilham - 4524210094
     Muzakki Abrar - 4524210071
 
