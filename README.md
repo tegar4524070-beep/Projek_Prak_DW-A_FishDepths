@@ -15,21 +15,22 @@ Website yang menampilkan pembagian zona kedalaman laut dan jenis ikan di setiap 
 
 ## 📂 Struktur Folder
 PROJECT-DW-A-FISHDEPTH/
-├── .vscode/                  
+├── .vscode/                  # Konfigurasi editor (opsional)
 ├── src/
 │   ├── img-landingpage/      # Gambar halaman landing
 │   ├── img-MidnightZone/     # Gambar zona Midnight
 │   ├── img-Rare/             # Gambar zona Rare
 │   ├── img-sunlitzone/       # Gambar zona Sunlit
 │   ├── img-TwilightZone/     # Gambar zona Twilight
-│   ├── indexs.html            # Halaman utama (Landing Page)
+│   ├── index.html            # Halaman utama (Landing Page)
 │   ├── Midnightzone.html    # Halaman Midnight Zone
 │   ├── Rare.html             # Halaman Rare Zone
 │   ├── Sunlitzone.html       # Halaman Sunlit Zone
 │   ├── Twilightzone.html     # Halaman Twilight Zone
 │   ├── script.js             # File JavaScript
-│   └── style.css             # File CSS untuk semua page
+│   └── style.css             # File CSS
 ├── README.md                 # Dokumentasi project
+
 
 ## 🛠️ Teknologi
 - HTML5
