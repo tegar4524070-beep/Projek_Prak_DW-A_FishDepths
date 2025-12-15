@@ -3,7 +3,7 @@
 # Our Team Kelompok 3
 
     1. Kholil Irsyad Marwan - 4524210110
-    2.Muhammad Tegar Arianto - 4524210070
+    2. Muhammad Tegar Arianto - 4524210070
     Reevan Azepha Islamy Iskandar - 4524210083
     Ridwan Odi Nugroho - 4524210089
     Rizwan Fauziani Ilham - 4524210094
